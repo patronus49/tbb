@@ -1,0 +1,23 @@
+{
+  "name": "tbb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patronus49/tbb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patronus49/tbb/issues"
+  },
+  "homepage": "https://github.com/patronus49/tbb#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-couchdb": "^1.2.0"
+  }
+}
